@@ -1,3 +1,4 @@
+var ImageOptimizer = function() {
 'use strict';
 module.exports = function(grunt) {
   grunt.initConfig({
@@ -35,4 +36,5 @@ grunt.loadNpmTasks('grunt-smushit');
 
 grunt.registerTask('default', ['imagemin']);
 
-}
+};
+};
