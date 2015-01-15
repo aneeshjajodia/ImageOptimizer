@@ -7,6 +7,9 @@
   },
   "description": "An Image Optimizer.",
   "main": "gruntfile.js",
-  "author": "Aneesh Jajodia",
+  "author": [
+    "Aneesh Jajodia",
+    "Aswini S"
+    ],
   "license": "ISC",
 }
