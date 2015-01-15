@@ -1,5 +1,6 @@
-ImageOptimizer
+Image Optimizer
 ==============
 
-Optimizing images under the folder *uploads* using ``grunt-contrib-imagemin``.
-
+[![Build Status][travis-image]][travis-url]
+[travis-url]: https://travis-ci.org/dragonwolverines/ImageOptimizer
+[travis-image]: https://travis-ci.org/dragonwolverines/ImageOptimizer.svg?branch=master
