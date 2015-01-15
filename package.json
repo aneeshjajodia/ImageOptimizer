@@ -6,7 +6,7 @@
     "grunt-contrib-imagemin": "^0.9.2"
   },
   "description": "An Image Optimizer.",
-  "main": "gruntfile.js",
+  "files": "gruntfile.js",
   "author": [
     "Aneesh Jajodia",
     "Aswini S"
