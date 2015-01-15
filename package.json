@@ -1,11 +1,8 @@
 {
   "name": "ImageOptimizer",
   "version": "1.0.0",
-  "devDependencies": {
-    "grunt": "^0.4.5"
-  },
   "description": "An Image Optimizer.",
-  "files": "",
+  "files": "test.js",
   "author": [
     "Aneesh Jajodia",
     "Aswini S"
