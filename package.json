@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "An Image Optimizer.",
   "files": "test.js",
-  "author": {
+  "author": [
     "Aneesh Jajodia",
     "Aswini S"
-    },
-  "license": "ISC",
+    ],
+  "license": "ISC"
 }
