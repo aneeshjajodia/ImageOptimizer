@@ -2,7 +2,6 @@
 module.exports = function(grunt) {
   grunt.initConfig({
       pkg: grunt.file.readJSON('package.json'),
-
       imagemin: {
         dist: {
           options: {
@@ -17,7 +16,6 @@ module.exports = function(grunt) {
           }]
         }
       },
-
       smushit: {
         mygroup: {
           src: [
@@ -27,12 +25,8 @@ module.exports = function(grunt) {
           dest: 'uploads/'
         }
       }
-
   });
-
 grunt.loadNpmTasks('grunt-contrib-imagemin');
 grunt.loadNpmTasks('grunt-smushit');
-
 grunt.registerTask('default', ['imagemin']);
-
-}
+};
